@@ -13,5 +13,5 @@ phrase, language notes, contributor notes
 
 e.g.
 ```
-- иди трахни свою мать, Russan (via google translate), Eponymous gfym@suckerpun.ch
+- иди трахни свою мать, Russian (via google translate), Eponymous gfym@suckerpun.ch
 ```
